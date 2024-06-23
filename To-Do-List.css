@@ -1,13 +1,13 @@
 body{
-    background-color: rgb(4, 29, 29);
+    background-color: black;
 }
 .container{
     width: 360px;
     padding: 33px;
     text-align: center;
     background-color: #fff;
-    margin-left: 33%;
-    margin-top: 5px;
+    margin-left: 50%;
+    margin-top: 30vh;
 }
 input{
     width: 270px;
